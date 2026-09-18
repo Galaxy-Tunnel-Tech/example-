@@ -6,8 +6,8 @@ compatibility_flags = [ "nodejs_compat" ]
 keep_vars = true
 
 [vars]
-WS_PATH = "galaxy-tunnel"
-PROXYIP = "://fast.com"
+WS_PATH = "galaxytunnel"
+PROXYIP = "sg.edtunnel.best"
 #PROXY_LIST_URL = ""
 DNS_RESOLVER_URL = ["https://cloudflare-dns.com/dns-query",
 "https://dns.google/dns-query",
