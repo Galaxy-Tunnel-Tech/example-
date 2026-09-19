@@ -3,7 +3,7 @@ import { connect } from "cloudflare:sockets";
 // ============================================
 // CONSTANTS & DEFAULT CONFIGURATION
 // ============================================
-const DEFAULT_LOCAL_PROXIES = "ip.sb"
+const DEFAULT_LOCAL_PROXIES = "icook.tw"
 const DEFAULT_DOH_URL = "https://cloudflare-dns.com/dns-query";
 const CONNECTION_TIMEOUT_MS = 30000; // 30 seconds timeout
 const DEFAULT_RATE_LIMIT_PER_MINUTE = 60;
